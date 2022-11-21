@@ -36,7 +36,7 @@ public class LoginVerif extends HttpServlet {
 		// TODO Auto-generated method stub
 		String uname=request.getParameter("uname");
 		String pwd=request.getParameter("password");
-		if (uname.equals("Damso") && pwd.equals("admin")) {
+		if (uname.equals("Damso12032") && pwd.equals("admin")) {
 			System.out.println("les identifiants sont corrects\n");
 		}	
 		else System.out.println("Erreur dns les ids\n");	
