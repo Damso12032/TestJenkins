@@ -12,6 +12,7 @@ import javax.servlet.annotation.WebServlet;
 //@WebServlet("/LoginVerify")
 public class LoginVerif extends HttpServlet {
 	private static final long serialVersionUID = 1L;
+	//on recup le serial version UD
        
     /**
      * @see HttpServlet#HttpServlet()
